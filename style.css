@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+        background-color: #14213D;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+/* 
+         background-image: url(https://livesquare.in/wp-content/uploads/2014/07/Top-10-best-Simple-Awesome-Background-Images-for-Your-Website-or-Blog3.jpg);
+        background-size: cover;  */
+
+}
+
+ .card{
+          width: 70%;
+           max-width: 380px; 
+          background: linear-gradient(135deg,#00feba,#5b548a);
+          color: #fff;
+           /* margin: 80px auto 0;  */
+          border-radius: 20px;
+          padding: 40px 35px;
+          text-align: center;
+          font-family: arial;
+          box-shadow: 12px 12px 5px 5px rgba(23, 23, 25, 0.4);
+ }
+
+  .search{
+           width: 100%;
+           display: flex;
+           align-items: center;
+           justify-content: space-between;
+  }
+
+.search input{
+    flex: 1;
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    color: #555;
+    padding: 10px 25px;
+    height: 50px;
+      border-radius: 30px;
+      margin-right: 16px;
+      font-size: 18px;
+}
+
+
+  .search button{
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    border-radius: 50%;
+     height: 60px;
+     width: 60px;
+         cursor: pointer;
+  }
+
+       .search button img{
+         width: 20px;
+       }
+
+
+.weather-icon{
+                width: 170px;
+                margin: 30px;
+}
+
+.weather h1{
+             font-size: 70px;
+               font-weight: 500;
+}
+
+
+         
+.weather h2{
+    font-size: 45px;
+      font-weight: 500;
+       margin-top: -10px;
+}
+
+.details{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 50px;
+            align-items: center;
+            padding: 0 20px;
+
+}
+
+     
+    .col{
+            text-align: left;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+    }
+
+.col img{
+         width: 40px;
+         margin-right: 10px;
+}
+
+
+   .wind,.humidity{
+                font-size: 28px;
+                margin-top: -6px;
+
+   }
+
+/* 3865fd44a0b8dc9c86d1095ab895e4eb */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
