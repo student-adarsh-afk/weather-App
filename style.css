@@ -6,12 +6,11 @@
 body{
         background-color: #14213D;
         display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-/* 
-         background-image: url(https://livesquare.in/wp-content/uploads/2014/07/Top-10-best-Simple-Awesome-Background-Images-for-Your-Website-or-Blog3.jpg);
-        background-size: cover;  */
+             justify-content: center;
+             align-items: center;
+           height: 100vh;
+ 
+       
 
 }
 
@@ -22,10 +21,10 @@ body{
           color: #fff;
            /* margin: 80px auto 0;  */
           border-radius: 20px;
-          padding: 40px 35px;
-          text-align: center;
-          font-family: arial;
-          box-shadow: 12px 12px 5px 5px rgba(23, 23, 25, 0.4);
+                    padding: 40px 35px;
+              text-align: center;
+                 font-family: arial;
+                 box-shadow: 12px 12px 5px 5px rgba(23, 23, 25, 0.4);
  }
 
   .search{
@@ -111,8 +110,10 @@ body{
 
    }
 
-/* 3865fd44a0b8dc9c86d1095ab895e4eb */
+/* 3865fd44a0b8dc9c86d1095ab895e4eb =   apikey */
 
+      
+       /* mobile version of this app  */
 
       @media  screen and (max-width:400px) {
                 
@@ -185,7 +186,7 @@ body{
 
 }
 
-        
+
       }
 
 
